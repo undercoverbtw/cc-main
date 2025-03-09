@@ -11,7 +11,6 @@ window["__f__m7r3oo58.aw"] = function(){with (this.s) {(async (u, { p, r, s }) =
 // ==/UserScript==
 
 (function() {
-    'use strict';
 
     // Not for distribution
 let eval_G56db;
