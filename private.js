@@ -10,7 +10,6 @@ window["__f__m7r3oo58.aw"] = function(){with (this.s) {(async (u, { p, r, s }) =
 // @grant        none
 // ==/UserScript==
 
-(function() {
 
     // Not for distribution
 let eval_G56db;
@@ -9387,4 +9386,3 @@ evelien(eval_G56db.eval_y55Z(2294), 0x1, eval_G56db.eval_qVVZ(56));
 version = eval_G56db.eval_u2x0(2295);
 $(chantille);
 
-})();
